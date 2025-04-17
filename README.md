@@ -25,7 +25,7 @@ This project investigates whether human credit rating agencies add value or dive
 
 ## 📁 Repository Contents
 
-- `ML Final Project.ipynb` – the full analysis notebook  
+- `ml_final_project.ipynb` – the full analysis notebook  
 - `corporate_ratings.csv` – cleaned dataset used in modeling
 
 ---
