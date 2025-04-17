@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="data/columbia-university-logo.png" alt="Columbia University" width="200"/>
+  <img src="data/columbia-university-logo.png" alt="Columbia University" width="1000"/>
 </p>
 
 <h1 align="center">A Machine Learning Approach to Corporate Credit Ratings</h1>
